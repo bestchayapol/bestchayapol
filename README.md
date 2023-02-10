@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 
 
 ![Best's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestchayapol&show_icons=true&theme=tokyonight)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bestchayapol&repo=github-readme-stats)](https://github.com/bestchayapol/github-readme-stats)
