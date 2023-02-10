@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 
-![Best github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
+![Best's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestchayapol&show_icons=true&theme=tokyonight)
 
-⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bestchayapol&repo=github-readme-stats)](https://github.com/bestchayapol/github-readme-stats)
