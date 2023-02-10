@@ -1,16 +1,26 @@
-### Hi there 👋
-
+### Hi there I'm [Best!]👋
+I'm Chayapol Mahatthanachai, a 20-year old student study in cs@sit kmutt who entrusiatic on computer programming.
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chayapol-mahatthanachai-b2a3b0192/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/bestchayapol) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/profile.php?id=100018190397687)
 <!--
-**bestchayapol/bestchayapol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: bestto
+- ⚡ Fun fact: I publish my code without public 
 -->
+
+<!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
+- 🌱 I’m currently learning HTML / CSS / JAVASCRIPT
+- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+- 😄 Pronouns: He/His/Him
+
+
+
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
+
+⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
