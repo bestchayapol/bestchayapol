@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 <!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
 - 🌱 I’m currently learning HTML / CSS / JAVASCRIPT
 - 😄 Pronouns: He/His/Him
-
-
-
-![Best's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestchayapol&show_icons=true&theme=tokyonight)
