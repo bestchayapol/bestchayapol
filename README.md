@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
-- 🌱 I’m currently learning HTML / CSS / JAVASCRIPT
+- 🌱 I’m currently learning HTML / CSS / JAVASCRIPT / REACT.js 
 - 😄 Pronouns: He/His/Him
