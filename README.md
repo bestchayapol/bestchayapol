@@ -1,5 +1,5 @@
 ### Hi there I'm Best!👋
-I'm Chayapol Mahatthanachai, a 20-year old student study in cs@sit kmutt who entrusiatic on computer programming.
+I'm Chayapol Mahatthanachai, a 20-year old student study in cs@sit kmutt who enthusiastic about computer programming.
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chayapol-mahatthanachai-b2a3b0192/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/bestchayapol) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/profile.php?id=100018190397687)
 <!--
