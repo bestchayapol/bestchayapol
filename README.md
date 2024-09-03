@@ -51,8 +51,18 @@ func GetBio() Bio {
 
 <p align="center">ReactJS</p>
 <p align="center">NodeJS</p>
+<p align="center">ExpressJS</p>
 <p align="center">MySQL</p>
 <p align="center">MUI Framework</p>
+<p align="center">Flutter</p>
+<p align="center">Python</p>
+<p align="center">Keras</p>
+<p align="center">Tensorflow</p>
+<p align="center">Matplotlib</p>
+<p align="center">Data Science</p>
+<p align="center">Artificial Intelligent</p>
+<p align="center">Machine Learning</p>
+<p align="center">Deep Learning</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
