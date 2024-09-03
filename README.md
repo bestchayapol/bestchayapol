@@ -19,12 +19,12 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "I'm Chayapol Mahatthanachai, a 20-year old student study in cs@sit kmutt who enthusiastic about computer programming.
+		"- ⚡ Quick bio:":                    "I'm Chayapol Mahatthanachai, a 21-year old student study in cs@sit kmutt currently in data science track who enthusiastic about computer programming, technology trends and books.
 ## 📫 How to reach me: ",
-		"- 🌱 I’m currently learning":        "HTML, CSS, JavaScript, React.js, Node.js --- Sharpening my Back End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "React.js, Node.js, MySQL related projects",
+		"- 🌱 I’m currently learning":        "Python, Matlab, Data Science, Artificial Intelligent (AI) --- Sharpening my DS Skills for the MERN stack (Personal goal)",
+		"- 👯 I’m looking to collaborate on": "Data Scientist and Machine Learning Engineer or related field",
 		"- 🤔 I’m looking for help with":     "Summer Internship",
-		"- 💬 Ask me about":                  "Back End",
+		"- 💬 Ask me about":                  "Back End & Data Science & Machine Learning",
 		"- 📫 How to reach me:":              "https://github.com/bestchayapol",
 	}
 }
